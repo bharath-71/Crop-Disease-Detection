@@ -64,7 +64,7 @@ You can also upload a sample output image in your repo.
 
 🔥 Future Improvements
 
-Deploy as a web app (Streamlit / Flask)
-Add mobile app interface
-Use transfer learning (ResNet / EfficientNet)
-Train on larger datasets
+Deploy as a web app (Streamlit / Flask),
+Add mobile app interface,
+Use transfer learning (ResNet / EfficientNet),
+Train on larger datasets.
